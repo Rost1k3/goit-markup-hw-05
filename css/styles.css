@@ -873,7 +873,7 @@ cursor: pointer;
 }
 
 .modal-overlay{
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(46, 47, 66, 0.4);
   position: fixed;
   width: 100%;
   height: 100%;
@@ -896,11 +896,11 @@ cursor: pointer;
 .modal{
   max-height: 80%;
   overflow-y: auto;
-  background: white;
+  background:#fcfcfc;
   max-width: 400px;
   margin: 0 auto;      
   padding: 40px 30px;
-  border-radius: 16px; 
+  border-radius: 4px; 
   box-shadow: 0 20px 40px rgba(0, 0, 0, 0.2);
   position: relative;
 
